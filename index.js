@@ -1,0 +1,1 @@
+console.log('Mycool project from utility');
